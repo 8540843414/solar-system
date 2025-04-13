@@ -54,18 +54,3 @@ Include moons orbiting planets
 Add background stars or galaxy effects
 
 Make it interactive with JavaScript..
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ChatGPT can make 
